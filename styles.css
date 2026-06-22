@@ -1,13 +1,9 @@
 body{
-    text-align:center;
+    text-align:left;
     font-family:Arial;
 }
 
 button{
     background:blue;
     color:white;
-}
-
-li{
-    list-style:none;
 }
