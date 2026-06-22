@@ -12,3 +12,7 @@ addBtn.addEventListener("click", () => {
 
     taskInput.value = "";
 });
+
+deleteBtn.addEventListener("click",()=>{
+    li.remove();
+});
